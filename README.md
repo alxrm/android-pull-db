@@ -1,6 +1,6 @@
 # android-pull-db
 
-Well, yeah, it just pulls the \*.db file from the connected device by package name 🤷‍♀️
+Well, yeah, it just pulls the `\*.db` file from the connected device by package name 🤷‍♀️
 
 I mean, what else did you want?
 
@@ -14,7 +14,7 @@ Then just run this in terminal of yours:
 $ sh ./pull.sh com.package.name databaseName.db
 ```
 
-(or you can add the file to `/usr/local/bin` and rename it to something like `pullandroiddb` and use it everywhere)
+_(or you can add the file to `/usr/local/bin` and rename it to something like `pullandroiddb` and use it everywhere)_
 
 #### Note
 
@@ -22,4 +22,8 @@ $ sh ./pull.sh com.package.name databaseName.db
 
 #### Result
 
-If you did it correctly, it'll appear at `~/databaseName.db` and you'll be able to examine it however you want(like [sqlitebrowser](https://sqlitebrowser.org/) for example) :tada:
+If you did it correctly, it'll appear at `~/databaseName.db` and you'll be able to examine it however you want(with [sqlitebrowser](https://sqlitebrowser.org/) for example) :tada:
+
+## License
+
+MIT License. See the [LICENSE](LICENSE) file for more information..
