@@ -6,7 +6,7 @@ I mean, what else did you want?
 
 ## Usage
 
-_Do you have your device connected? You do? Good!_
+_Do you have your device connected? You do? And adb is all-set? Good!_
 
 Then just run this in terminal of yours:
 
