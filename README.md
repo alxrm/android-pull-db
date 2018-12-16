@@ -18,9 +18,7 @@ _(or you can add the file to `/usr/local/bin` and rename it to something like `p
 
 #### Note
 
-`databaseName.db` should be the exact filename of your database you're using in your app
-
-#### Result
+**`databaseName.db` should be the exact filename of your database you're using in your app**
 
 If you did it correctly, it'll appear at `~/databaseName.db` and you'll be able to examine it however you want(with [sqlitebrowser](https://sqlitebrowser.org/) for example) :tada:
 
